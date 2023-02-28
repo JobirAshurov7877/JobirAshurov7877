@@ -7,5 +7,5 @@ I'm, Frontend developer <br>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="30" > </code>
 <code> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" > </code>
-<code> <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="30" > </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="30" > </code>
 
