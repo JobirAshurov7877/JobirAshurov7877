@@ -9,4 +9,8 @@ I'm, Frontend developer <br>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" ></code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="30" > </code>
+<br>
+- 📍&nbsp; Current location: Bukhara, Uzbekistan
+- 📄 &nbsp; Ask me about anything, I am  happy to help
+- 📄 &nbsp; How to reach me:[@jjobir__ashurov](https://instagam.com/jobir__ashurov/)
 
