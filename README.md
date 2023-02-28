@@ -12,5 +12,5 @@ I'm, Frontend developer <br>
 <br>
 - 📍&nbsp; Current location: Bukhara, Uzbekistan
 - 📄 &nbsp; Ask me about anything, I am  happy to help
-- 📄 &nbsp; How to reach me:[@jobir__ashurov](https://instagam.com/jobir__ashurov/)
+- 📄 &nbsp; How to reach me: [@jobir__ashurov](https://www.instagram.com/jobir__ashurov/)
 
