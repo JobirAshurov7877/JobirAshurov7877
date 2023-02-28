@@ -1,1 +1,1 @@
-### Hi , I'm  Jobir  Ashurov  <img src="h[ttps://www.funimada.com/assets/images/cards/big/hello-7.gif](https://media0.giphy.com/media/l5J29gNr9wszE9zhLp/giphy.gif?cid=6c09b952hxdotow1hd7q0yq38j88gxouha9rj4e1hyx01qry&rid=giphy.gif&ct=ts)" height="30" >
+### Hi , I'm  Jobir  Ashurov  <img src="https://www.funimada.com/hello/hello-8.html" height="30" >
