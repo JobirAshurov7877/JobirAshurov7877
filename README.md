@@ -6,7 +6,6 @@ I'm, Frontend developer <br>
 <code> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="30" > </code>
-<code> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" ></code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" > </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="30" > </code>
